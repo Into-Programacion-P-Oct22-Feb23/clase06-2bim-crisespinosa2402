@@ -22,7 +22,7 @@ public class Principal {
         int multiplicacion = OperadorTres.obtenerMultiplicacion(valorA, valorB);
         
         System.out.printf("La suma de %d + %d es igual a: %d\nLa multiplicacion "
-                + "de %d * %d es igual a: %d\n",
+                + "sde %d * %d es igual a: %d\n",
                 valorA,
                 valorB,
                 suma, 
